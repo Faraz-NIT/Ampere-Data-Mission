@@ -4,4 +4,4 @@ task4_Focused_synreal_seg - Analysis focusing on 90° FOV and important ADAS-rel
 
 dinov2-synthetic-to-real - Using a mix of real and synthetic data for training.
 
-lidar(2) - Using depth data (LiDAR) for depth-aware training and analysis.
+ch6_depth_aware_lidar - Using depth data (LiDAR) for depth-aware training and analysis.
